@@ -38,7 +38,7 @@
     "antd": "^3.11.6",
     "array-buffer-to-hex": "^1.0.0",
     "aws-sdk": "^2.404.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bizcharts": "^3.4.2",
     "bizcharts-plugin-slider": "^2.1.1-beta.1",
     "chalk": "^2.4.2",
